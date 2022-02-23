@@ -1,2 +1,2 @@
-# TTT
-Minecraft TTT game plugin
+# Plugin
+### Minecraft TTT game plugin
